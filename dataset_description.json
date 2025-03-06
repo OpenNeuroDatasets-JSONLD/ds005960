@@ -1,18 +1,23 @@
 {
-  "Name": "General Info: inst-comp-eeg",
-  "ReferencesAndLinks": ["Reference"],
-  "BIDSVersion": "v1.2.1",
-  "License": "CC0",
-  "Authors": [
-    "Pena, P.",
-    "Palenciano, A.F.",
-    "González-García, C.",
-    "Ruz, M."
-  ],
-  "DatasetDOI": "doi:",
-  "HEDVersion": "8.1.0",
-  "GeneratedBy":[ {
-    "Name": "bids-matlab-tools",
-    "Version": "8.0"
-  }]
+    "Name": "General Info: inst-comp-eeg",
+    "ReferencesAndLinks": [
+        "Reference"
+    ],
+    "BIDSVersion": "v1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Pena, P.",
+        "Palenciano, A.F.",
+        "González-García, C.",
+        "Ruz, M."
+    ],
+    "DatasetDOI": "doi:",
+    "HEDVersion": "8.1.0",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "8.0"
+        }
+    ],
+    "EthicsApprovals": []
 }
