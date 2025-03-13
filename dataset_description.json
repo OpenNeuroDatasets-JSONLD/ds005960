@@ -1,7 +1,6 @@
 {
     "Name": "General Info: inst-comp-eeg",
     "ReferencesAndLinks": [
-        "Reference",
         "https://doi.org/10.1523/JNEUROSCI.1964-24.2025"
     ],
     "BIDSVersion": "v1.2.1",
