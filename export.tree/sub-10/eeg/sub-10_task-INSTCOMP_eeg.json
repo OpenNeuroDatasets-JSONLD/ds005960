@@ -1,0 +1,15 @@
+{
+  "InstitutionAddress": "Campus de Cartuja s/n - 18071 Granada, Spain",
+  "InstitutionName": "University of Granada",
+  "InstitutionalDepartmentName": "CIMCYC",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "BrainVision",
+  "TaskName": "INSTCOMP",
+  "EEGChannelCount": 61,
+  "EOGChannelCount": 2,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 6021.62,
+  "SamplingFrequency": 1000,
+  "SoftwareFilters": "n/a"
+}
